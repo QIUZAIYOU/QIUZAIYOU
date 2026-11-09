@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">QIUZAIYOU — QIAN</title>
+  <desc id="desc">A warm paper banner with the name QIAN, the line “Tools, interfaces, small systems”, and a large Q drawn as a signal loop.</desc>
+  <defs>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" fill="none" stroke="#D9D3C6" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="360" fill="#F3F0E8"/>
+  <rect width="1280" height="360" fill="url(#grid)" opacity="0.5"/>
+
+  <g fill="none" stroke="#D9D3C6" stroke-width="1">
+    <path d="M64 92H1216"/>
+    <path d="M64 302H1216"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3" fill="#6F6A60">
+    <text x="64" y="76">QIUZAIYOU / PROFILE 2026</text>
+    <text x="1216" y="76" text-anchor="end">OPEN SOURCE / SINCE 2017</text>
+    <text x="64" y="330">DEEPSEEK HARNESS · USERSCRIPTS · DESKTOP TOOLS</text>
+  </g>
+
+  <text x="58" y="206" font-family="Georgia, 'Times New Roman', serif" font-size="134" letter-spacing="-8" fill="#12110F">QIAN</text>
+  <text x="66" y="252" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" letter-spacing="1.2" fill="#12110F">TOOLS, INTERFACES, SMALL SYSTEMS</text>
+
+  <g fill="none" stroke="#12110F" stroke-width="2.5">
+    <circle cx="1040" cy="196" r="98"/>
+    <path d="M1110 268L1190 348"/>
+    <path d="M954 196H980L994 160L1010 230L1026 172L1042 212L1056 196H1104" stroke="#D24A2E" stroke-width="3"/>
+  </g>
+  <circle cx="1110" cy="196" r="5.5" fill="#D24A2E"/>
+
+  <g stroke="#6F6A60" stroke-width="1">
+    <path d="M928 108V124M920 116H936"/>
+  </g>
+
+  <rect x="64" y="92" width="28" height="3" fill="#D24A2E"/>
+</svg>
