@@ -28,12 +28,6 @@ B 站播放页与动态页的界面调整脚本，装进浏览器脚本管理器
 **[Stylish](https://github.com/QIUZAIYOU/Stylish)** · `Stylus` · 23 stars  
 为常用网站写的一组自定义样式，配合 Stylish / Stylus 扩展使用。
 
-**[Douyu-Player-StickyTop](https://github.com/QIUZAIYOU/Douyu-Player-StickyTop)** · `JavaScript` `Userscript`  
-斗鱼直播间播放器置顶；配合夜间样式，只留下画面本身。
-
-**[Taptap-PostPreview](https://github.com/QIUZAIYOU/Taptap-PostPreview)** · `JavaScript` `Userscript`  
-在 TapTap 社区列表页直接预览帖子，不用逐条点开。
-
 ## 工具 / TOOLBOX
 
 `TypeScript` `JavaScript` `Vue` `Python` `Rust` `Java`  
