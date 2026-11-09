@@ -33,18 +33,6 @@ B 站播放页与动态页的界面调整脚本，装进浏览器脚本管理器
 `TypeScript` `JavaScript` `Vue` `Python` `Rust` `Java`  
 `Node.js` `Tauri` `GitHub Actions` `Stylus`
 
-## 更多 / MORE
-
-<details>
-<summary>展开更多仓库</summary>
-
-- **[Bilibili-VideoPage-Adjustment](https://github.com/QIUZAIYOU/Bilibili-VideoPage-Adjustment)** — B 站播放页的界面调整。
-- **[Bilibili-DynamicPage-Adjustment](https://github.com/QIUZAIYOU/Bilibili-DynamicPage-Adjustment)** — B 站动态页的界面调整。
-- **[0557fdc-EditorEnhanced](https://github.com/QIUZAIYOU/0557fdc-EditorEnhanced)** — 后台新闻编辑器的排版与标题优化。
-- **[AddFixButtonToESLintOnlinePlayground](https://github.com/QIUZAIYOU/AddFixButtonToESLintOnlinePlayground)** — 给 ESLint 在线 Playground 加一个 Fix 按钮。
-
-</details>
-
 ---
 
 <sub>QIUZAIYOU · 2026</sub>
