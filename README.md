@@ -14,11 +14,9 @@
 
 **DeepSeek Harness 插件组**：给 DSH 的侧栏、工作区和输入框补上缺失的那一层。三个插件都在持续维护。
 
-| 项目 | 它解决什么 |
-| --- | --- |
-| **[dsh-panel-control](https://github.com/QIUZAIYOU/dsh-panel-control)** | 给侧栏入口排序、隐藏、分组和折叠。自动分类会跳过手动调整过的入口，下次分类时不会再放回去。 |
-| **[dsh-workspace-control](https://github.com/QIUZAIYOU/dsh-workspace-control)** | 在侧栏里移动、重建、合并、重命名和删除工作区。 |
-| **[dsh-composer-rewind](https://github.com/QIUZAIYOU/dsh-composer-rewind)** | 找回输入框的历史：文字、附件、引用、命令和当时的 DSH 配置。 |
+- **[dsh-panel-control](https://github.com/QIUZAIYOU/dsh-panel-control)**：给侧栏入口排序、隐藏、分组和折叠。自动分类会跳过手动调整过的入口，下次分类时不会再放回去。
+- **[dsh-workspace-control](https://github.com/QIUZAIYOU/dsh-workspace-control)**：在侧栏里移动、重建、合并、重命名和删除工作区。
+- **[dsh-composer-rewind](https://github.com/QIUZAIYOU/dsh-composer-rewind)**：找回输入框的历史：文字、附件、引用、命令和当时的 DSH 配置。
 
 ## 作品 / SELECTED
 
